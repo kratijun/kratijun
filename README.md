@@ -1,16 +1,18 @@
-### Hi there 👋
+## You found me! 👋
 
-<!--
-**kratioliver/kratioliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well, you did it, you found me! I'm Oliver. If you want to contact me for whatever reason, shoot an email to `admin@kratistudio.eu`.
 
-Here are some ideas to get you started:
+## Specialisations 🐧
+I have over 4 years of experience with PHP and most of the .NET languages (C#, VB, VB.NET)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <i>About</i>
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** JavaScript, PHP, React, C#, .NET 💻
+-  **Hobbies :** Playing Games & listen to Music :headphones:
+-  **Fact :** It's never late to get started 🎯:heart:
+-  **Organisation :** -
+
+
+## Specialisations 👍
+Thanks for visiting my profile. Have a great day. :)
