@@ -1,18 +1,51 @@
-## You found me! 👋
+# Hey, du hast mich gefunden! 👋
 
-Well, you did it, you found me! I'm Oliver. If you want to contact me for whatever reason, shoot an email to `admin@kratistudio.eu`.
+Ich bin Oliver – der Entwickler, der hinter diesem GitHub-Profil steckt. Schön, dass du vorbeischaust! Wenn du mit mir in Kontakt treten möchtest, sei es für eine Frage oder eine Zusammenarbeit, kannst du mir jederzeit eine E-Mail an `olliderhamster@gmail.com` senden.
 
-## Specialisations 🐧
-I have over 4 years of experience with PHP and most of the .NET languages (C#, VB, VB.NET)
+---
 
-### <i>About</i>
+## 🌟 Mein Fokus & Spezialgebiete
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** JavaScript, PHP, React, C#, .NET 💻
--  **Hobbies :** Playing Games & listen to Music :headphones:
--  **Fact :** It's never late to get started 🎯:heart:
--  **Organisation :** -
+Mit über mehreren Jahren Hobbyerfahrung in der Web- und Softwareentwicklung, spezialisiere ich mich auf die folgenden Technologien:
+
+### 🧑‍💻 **Technologien & Programmiersprachen**
+
+- **Backend-Entwicklung**: PHP, .NET (C#, VB, VB.NET)  
+- **Frontend-Entwicklung**: JavaScript, React  
+- **Datenbanken**: MySQL
+
+---
+
+## 🚀 Was ich mache
+
+Ich bin leidenschaftlicher Entwickler, der sich stets weiterbildet und neue Technologien ausprobiert. Besonders interessiert mich:
+
+- **Full-Stack-Entwicklung**: Vom Server bis zum Client – ich baue vollständige Webapplikationen.  
+- **Open-Source-Entwicklung**: Ich trage aktiv zu Open-Source-Projekten bei und teile mein Wissen mit der Community.
+
+Ich liebe es, mein Wissen zu erweitern und an spannenden, herausfordernden Projekten zu arbeiten.
+
+---
+
+## 📚 Über mich
+
+- **Berufserfahrung**: 4+ Jahre als Bürokaufmann im Handel
+- **Hobbys**: Neben der Softwareentwicklung arbeite ich als Rettungssanitäter beim Roten Kreuz Österreich – eine Tätigkeit, die mir unglaublich viel Freude bereitet. ❤️
+- **Ständige Weiterbildung**: Ich bin ein lebenslanger Lernender, immer auf der Suche nach neuen Technologien und Tools, um meine Fähigkeiten weiter auszubauen.
+
+---
 
 
-## Specialisations 👍
-Thanks for visiting my profile. Have a great day. :)
+## 📩 Kontakt
+
+Wenn du Fragen hast oder ein Projekt starten möchtest, melde dich einfach!
+
+E-Mail: `olliderhamster@gmail.com`
+
+---
+
+Vielen Dank, dass du dir die Zeit genommen hast, mein Profil zu besuchen. Ich hoffe, wir können bald zusammenarbeiten!
+
+---
+
+**Viel Erfolg bei deinen Projekten!** 🚀
