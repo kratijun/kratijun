@@ -1,6 +1,6 @@
 # Hey, du hast mich gefunden! 👋
 
-Ich bin Oliver – der Entwickler, der hinter diesem GitHub-Profil steckt. Schön, dass du vorbeischaust! Wenn du mit mir in Kontakt treten möchtest, sei es für eine Frage oder eine Zusammenarbeit, kannst du mir jederzeit eine E-Mail an `olliderhamster@gmail.com` senden.
+Ich bin Oliver – der Entwickler, der hinter diesem GitHub-Profil steckt. Schön, dass du vorbeischaust! Wenn du mit mir in Kontakt treten möchtest, sei es für eine Frage oder eine Zusammenarbeit, kannst du mir jederzeit eine E-Mail an `oliver@krati.at` senden.
 
 ---
 
@@ -40,7 +40,7 @@ Ich liebe es, mein Wissen zu erweitern und an spannenden, herausfordernden Proje
 
 Wenn du Fragen hast oder ein Projekt starten möchtest, melde dich einfach!
 
-E-Mail: `olliderhamster@gmail.com`
+E-Mail: `oliver@krati.at`
 
 ---
 
