@@ -10,9 +10,9 @@ Mit über mehreren Jahren Hobbyerfahrung in der Web- und Softwareentwicklung, sp
 
 ### 🧑‍💻 **Technologien & Programmiersprachen**
 
-- **Backend-Entwicklung**: PHP, .NET (C#, VB, VB.NET)  
-- **Frontend-Entwicklung**: JavaScript, React  
-- **Datenbanken**: MySQL
+- **Backend-Entwicklung**: PHP, Node.js
+- **Frontend-Entwicklung**: JavaScript, React, Vite  
+- **Datenbanken**: MySQL, SQLite
 
 ---
 
@@ -29,7 +29,7 @@ Ich liebe es, mein Wissen zu erweitern und an spannenden, herausfordernden Proje
 
 ## 📚 Über mich
 
-- **Berufserfahrung**: 4+ Jahre als Bürokaufmann im Handel
+- **Berufserfahrung**: 5+ Jahre als Bürokaufmann im Handel, 1+ Jahr als Rettungssanitäter beim Roten Kreuz
 - **Hobbys**: Neben der Softwareentwicklung arbeite ich als Rettungssanitäter beim Roten Kreuz Österreich – eine Tätigkeit, die mir unglaublich viel Freude bereitet. ❤️
 - **Ständige Weiterbildung**: Ich bin ein lebenslanger Lernender, immer auf der Suche nach neuen Technologien und Tools, um meine Fähigkeiten weiter auszubauen.
 
